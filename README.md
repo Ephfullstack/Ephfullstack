@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ephfullstack
-- 👀 I’m interested in Bioinformatics,Artifical Intelligence,Machine Learning, Medical Tech and building free lance projects.
+- 👀 I’m interested in Bioinformatics,Artifical Intelligence,Machine Learning, BioTech and building free lance projects.
 - 🌱 I’m currently learning Front End Development and i am building a website 
 - 💞️ I’m looking to collaborate on on any Front End Development projects where i can be of help and i can increase my learning
 - 📫 How to reach me: Ephon.Agyemann@gmail.com
