@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @Ephfullstack
-- 👀 I’m interested in Bioinformatics,Artifical Intelligence,Machine Learning, BioTech, Web3 and Eccom
-- 🌱 I’m currently learning Front End Development and i am building a website 
-- 💞️ I’m looking to collaborate on on any Front End Development projects where i can be of help and i can increase my learning
-- 📫 How to reach me: Ephon.Agyemann@gmail.com
+<a href="https://www.linkedin.com/in/ephronagyeman/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42" align="right"></a></p>
 
-<!---
-Ephfullstack/Ephfullstack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+<h1 align="center">
+  Ephron Agyeman
+</h1>
+
+<br>
+
+<div align="center">
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-688%20commits-red.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Python-195%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/JavaScript-886%20commits-yellow.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/HTML-708%20commits-green.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/CSS-946%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/SQL-404%20commits-purple.svg" alt=""></a>
+</div>
+
+<br>
+
+<div align="center">
+
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
+[Other Projects ](#experience) |
+[Fun Facts ](#hobbies)
+
+</div>
+<br>
+
+---
+
+<br>
+
