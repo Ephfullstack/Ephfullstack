@@ -51,10 +51,30 @@ Below lies a selection of projects using technologies that i am proud of. to see
 | Project | Description |
 | -- | :--: |
 | I have created this site to learn more about React and React hooks as well as how to test my code with Jest and Enzyme. <br><br> Alongside documenting the projects I have created, I use the site to quickly test ideas and to create small projects, such as a [calculator], a simple [wave animation] and a [Higher or Lower card game].  <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/Portfolio)** <br> [Live](https://www.Ephfullstack.com/) <br><br> ![](./gifs/Portfolio.gif) |
-|The aim of the project was to create a Social Media Meta-clone where users were able to interact with the application and utilise all of features of a social media application. <br> Users are able to create a new user profile, log in, log out, crate and edit posts, like posts and see like counts, view own page and users profile page aswell as timestamps being displayed next to posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/raphaella-rose/acebook-eta.git)** <br> [WhatStack - Live](--) <br><br> ![](-- enter a gif of acebook) |
+|The aim of the project was to create a Social Media Meta-clone where users were able to interact with the application and utilise all of features of a social media application. <br> Users are able to create a new user profile, log in, log out, crate and edit posts, like posts and see like counts, view own page and users profile page aswell as timestamps being displayed next to posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/raphaella-rose/acebook-eta.git)** <br> [Acebook - Live](--) <br><br> ![](-- enter a gif of acebook) |
 | A command-line NodeJS application allowing you to create a bank account, make deposits, withdraw money and print statements. <br> The aim of this project was to focus fully on the TDD process with writing clean, DRY code. <br><br> **Tech Stack** <br> NodeJS <br><br> **Testing Frameworks** <br> Jest <br> | **[Bank](https://github.com/Ephfullstack/bank_account)** <br><br> ![](-- insert video of bank application) |
 |A Hayfever Assistant Application. <br> Achoo is a group project Fullstack hayfever assistant which detects and alerts pollen counts for any location in specific areas and sends text alerts straight to your phone. <br><br> **Tech Stack** <br> Javascript,Node.js,Express,React,Jest,MongoDb CSS, HTML <br><br> **Testing Frameworks** <br> Jest, CypressE2E <br> | **[Achoo](https://github.com/fridayshoes/achoo-hayfever-client-react)** <br><br> ![](-- insert gift of hayfever app) |
-| Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/sophiechannon/MakersBnB)** <br><br> ![](-insert Gif of MakersBnB)|
+| Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/sophiechannon/MakersBnB)** <br><br> ![](-insert Gif of MakersBnB)|
 ## Skills
 
+## Education
 
+#### Makers Academy (May - August 2022)
+
+- OOP, TDD, MVC, DDD
+- Agile/XP
+- Ruby, Rails, JavaScript, React, Node, Socket.io
+- RSpec, Jasmine, Jest, React testing Library
+
+#### DeMontFort University (2018 - 2021)
+
+-BSC (Hons) Biomedical Science 
+
+#### A levels/B-Tec (2016 - 2018)
+
+Biomedicel Science Level 3 Extended Dipolma
+Information Technology Level 3 Extended Diploma
+
+## Experience
+
+## Fun Facts
