@@ -87,10 +87,21 @@ Below lies a selection of projects using technologies that i am proud of. to see
 | Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/ephfullstack/MakersBnB)** <br><br> ![](-insert Gif of MakersBnB)|
 ## Skills
 
-- 
+- **Problem Solver**
+
+As someone with a curious nature who thoroughly enjoys finding creative methods to solve problems, I enjoy using my logical reasoning to improve and debug code. While working as an apprentice field engineer, I was the tasks with troubleshooting hardware and software issues. to fulfill this had to exercise my research and strong decision-making skills. This allowed me to understand the issues the hardware or software was undergoing through trial and error and eventually solve the issue leaving the client at the site happy. This was done through having to have prior knowledge of the hardware or software before attending the site which was done through research and following equipment documentation.
+
+- **Team Player/Leadership skills**
+
+As a Laboratory Section supervisor, I was able to lead a team of lab technicians and provide support and guidance as well as a productive environment for them to hit sample targets within the laboratory under standard operating procedures. This was done through consistent communication, as well as productivity assessments and incentives. I made sure to be attentive and enthusiastic when working with each technician and spoke in a polite tone to ensure messages were conveyed adequately. I ensured to take the time to understand each member of the team on a person to personal bases taking into consideration their strengths and previous experiences. This in turn allowed me to assign tasks based on each technician's strength to allow the team to work effectively. The same skills were made apparent during our final project at Makers Academy, where we had to work in an AGILE SCRUM format to deliver a web application under time constraints.
+
+- **Excellent communicator**
+
+Having previously worked in various customer-facing roles, I am experienced in communicating with a wide range of audiences and adapting my communication style. I can deliver high-quality verbal and written communication. In my previous role as a Consumer Services Specialist, I had to use my abilities to build and sustain positive relationships, provide solutions for customer inquiries, and translate the company's brand. In this role, I received great feedback and recognition for my ability to communicate with customers. I was also able to utilize this skill whilst working within multiple tech teams at Makers Academy, to explain concepts, share feedback, and communicate ideas. A skill that is fundamental for a Software Developer role.
 
 
 - **Additional skills:** Video Editing (iMovie/Final Cut/ Premiere pro) | Graphic Design (Inkscape/Photoshop) | UGC | Social Media Marketing via Tiktok.
+
 - **Languages** English | Yoruba
 
 
