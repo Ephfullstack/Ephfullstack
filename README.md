@@ -10,14 +10,32 @@
 <br>
 
 <div align="center">
-  
-  
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Ruby-688%20commits-red.svg" alt=""></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Python-195%20commits-orange.svg" alt=""></a>
+
+**FRONT END**
+
 <a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="" width= "50"></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="" width= "50"></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/CSS-946%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/SQL-404%20commits-purple.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="" width= "50"></a> 
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="" width= "50" ></a>
+
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="" width= "50" ></a>
+
+**BACK END**
+
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="" width= "50" ></a>
+
+**TESTING**
+
+<a href="https://sourcerer.io/fayecarter"><img src="" alt="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Python-195%20commits-orange.svg" alt=""></a>
+
+
+
+
 </div>
 
 <br>
@@ -37,7 +55,7 @@
 
 <br>
 
-💻 I am a recent fullstack graduate of the highly selective programming bootcamp known as [Makers Academy] (https://makers.tech/).
+💻 I am a recent fullstack graduate of the highly selective programming bootcamp known as [Makers Academy](https://makers.tech/).
 
 🥼I have a BSC in Biomedical science with a background in Laboratry Analytics and  hardware field enginering. alongside my studies and my work as a      Laboratory Analyst i have taken the time to equip myself with the basics of programming(Talk about how you used MATLAB during University and passions towards tech), familiriziing myself with basic web development langauges such html, CSS and Javascript working on some web developement projects.
 
