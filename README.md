@@ -27,11 +27,18 @@
 <a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="" width= "50" ></a>
 <a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="" width= "50" ></a>
 <a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt=""  width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://cdn2.iconfinder.com/data/icons/coding-and-development-flat/60/Object-Oriented-Programming-program-developer-512.png" alt=""  width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/animal_wild_wildlife_tapir_nature_zoo_jungle_forest-512.png" alt=""  width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt=""  width= "50" ></a>
+  
+
 
 **TESTING**
 
 <a href="https://sourcerer.io/fayecarter"><img src="" alt="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://img.shields.io/badge/Python-195%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png![image](https://user-images.githubusercontent.com/94077473/199954549-bbd79eab-e516-4d83-a253-740970a7713f.png)
+" alt="" width= "50" ></a>
 
 
 
