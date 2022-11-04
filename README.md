@@ -30,12 +30,19 @@
 <a href="https://sourcerer.io/fayecarter"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt=""  width= "50" ></a>
 <a href="https://sourcerer.io/fayecarter"><img src="https://cdn2.iconfinder.com/data/icons/coding-and-development-flat/60/Object-Oriented-Programming-program-developer-512.png" alt=""  width= "50" ></a>
 <a href="https://sourcerer.io/fayecarter"><img src="https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/animal_wild_wildlife_tapir_nature_zoo_jungle_forest-512.png" alt=""  width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg?v=637830261740000000" alt="" width= "70" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg?v=637830261740000000" alt="" width= "60" ></a>
 
 
 **TESTING**
 
-<a href="https://sourcerer.io/fayecarter"><img src="" alt="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="" width= "50" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" alt="" alt="" width= "100" ></a>
+<a href="https://sourcerer.io/fayecarter"><img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png"  alt="" width= "50" ></a>
+  
+  
+  
+  
+  
 
 
 
