@@ -27,7 +27,7 @@
 [Education ](#education) |
 [Experience ](#experience) |
 [Other Projects ](#experience) |
-[Fun Facts ](#hobbies)
+[Hobbies ](#hobbies)
 
 </div>
 <br>
@@ -57,6 +57,11 @@ Below lies a selection of projects using technologies that i am proud of. to see
 | Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/sophiechannon/MakersBnB)** <br><br> ![](-insert Gif of MakersBnB)|
 ## Skills
 
+
+- **Additional skills:** Video Editing (iMovie/Final Cut/ Premiere pro) | Graphic Design (Inkscape/Photoshop) | UGC | Social Media Marketing via Tiktok.
+- **Languages** English | Yoruba
+
+
 ## Education
 
 #### Makers Academy (May - August 2022)
@@ -66,15 +71,55 @@ Below lies a selection of projects using technologies that i am proud of. to see
 - Ruby, Rails, JavaScript, React, Node, Socket.io
 - RSpec, Jasmine, Jest, React testing Library
 
-#### DeMontFort University (2018 - 2021)
+#### **DeMontFort University**  BSC (Hons) Biomedical Science (2018 - 2021)
 
--BSC (Hons) Biomedical Science 
+- 2.1(Upper Second Class)
 
-#### A levels/B-Tec (2016 - 2018)
+#### **Luton Sixth Form** A levels/B-Tec (2016 - 2018)
 
-Biomedicel Science Level 3 Extended Dipolma
-Information Technology Level 3 Extended Diploma
+- Medicel Science Level 3 Extended Dipolma - D* D* D*
+
+- Information Technology Level 3 Extended Diploma - D* D*
+
+#### **Barnfield South Academy** GCSE'S (2016 - 2018)
+
+- 11 qualifications A – C’s including Mathematics (B) and English Language (A*).
 
 ## Experience
+**UK**  **BIOCENTRE** | **Laboratory Section Supervisor** |**_Milton Keynes_** 08/2021 - 04/2022
 
-## Fun Facts
+- Trained Laboratory technicians' skills such as Tecan Automation, QPCR/EPCR extraction, Cherry-picking, Manuals, Plate prep and Kingfisher and following SOP regulations.
+- Adopted an array of skills such as, LIMS for data analysis, SARs cov2 testing, supervisor Leadership skills as well as team building skills.
+
+**SITEL** **GROUP** | **Customer Service Specialist** | **_Remote_** 02/2021 - 08/2022
+
+- Directly supported the NHS by heavily decreasing call traffic during the harsh COVID-19 Pandemic.
+- Conducted Outbound calls to members of the public, providing guidance and Emergency assistance.
+- Used Outstanding Communication and Customer service skills to attain client attention
+- Recorded sensitive information via an online database.
+
+**UKOMP** **LTD** | **Trainee Field Engineer** |**_Nationwide_** 06/2018 – 10/2019
+
+- Assisted a Highly Advanced Team of Field Engineers around the UK and provided IT support and Services
+- Handled Contracts from Highly acclaimed tech company's such as HP, LINUX, HPE and DXC.
+- Obtained a range of Technical Skills such as Hardware Repairs, Software Debugging and Cable architecture.
+- Was able to express proficient communication skills as I assisted users both remotely and on site ensuring they received the best experience.
+
+**Motto** **TODDINGTON SERVICES NORTHBOUND** |  **Team Leader** | **_Toddington_** 08/2017 - 06/2018
+
+- Joined a family of retail associates at WHSmith where I was placed in charge of guiding a team of customer service assistants.
+- Achieved skills such as Data logging, Stock rotations and Cash handling procedures as well as improving planning, leadership, and communication skills to lead the team in an efficient and cost-effective manor
+- Strived to deliver the best customer service to our clients as well as ensuring I met given KPI targets.
+
+
+## Hobbies
+
+🏃‍♂️ Fitness: I go gym everyday and when i'm not at the gym i'm either at gymnastics, boxing or basketball.
+
+🌍 Travel: An aspiring Internet Nomad who lives for taking in and visiting different countries and cultures.
+
+📹 Content creation: I love making short form or long form clips on tiktok, instagram and youtube.
+
+👨‍🍳 Cooking: I really enjoy learning new recipes and making new dishes. My signature dish has to be Jappense katsu curry and rice.
+
+📚 Reading: When i'm not coding, i'm usually stuck inside of a self help, metaphysics or business novel. Currently reading: The Almanak of Naval Ravikant:      A guide to wealth and happiness by Eric Jorgenson. 
