@@ -13,31 +13,31 @@
 
 **FRONT END**
 
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="" width= "50"></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="" width= "50"></a> 
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="" width= "50" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="" width= "50"></a>
+<a href="https://reactjs.org"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="" width= "50"></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="" width= "50" ></a>
 
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="" width= "50" ></a>
+<a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="" width= "50" ></a>
 
 **BACK END**
 
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt=""  width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://cdn2.iconfinder.com/data/icons/coding-and-development-flat/60/Object-Oriented-Programming-program-developer-512.png" alt=""  width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/animal_wild_wildlife_tapir_nature_zoo_jungle_forest-512.png" alt=""  width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg?v=637830261740000000" alt="" width= "60" ></a>
+<a href="https://www.w3schools.com/nodejs/nodejs_intro.asp"><img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="" width= "50" ></a>
+<a href="https://expressjs.com"><img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="" width= "50" ></a>
+<a href="https://www.postgresql.org"><img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="" width= "50" ></a>
+<a href="https://www.python.org/doc/essays/blurb/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="" width= "50" ></a>
+<a href="https://www.atlassian.com/git/tutorials/what-is-git"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="" width= "50" ></a>
+<a href="https://www.ruby-lang.org/en/"><img src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="" width= "50" ></a>
+<a href="https://www.mongodb.com/what-is-mongodb"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt=""  width= "50" ></a>
+<a href="https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP"><img src="https://cdn2.iconfinder.com/data/icons/coding-and-development-flat/60/Object-Oriented-Programming-program-developer-512.png" alt=""  width= "50" ></a>
+<a href="https://sinatrarb.com"><img src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg?v=637830261740000000" alt="" width= "60" ></a>
 
 
 **TESTING**
 
-<a href="https://sourcerer.io/fayecarter"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="" width= "50" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" alt="" alt="" width= "100" ></a>
-<a href="https://sourcerer.io/fayecarter"><img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png"  alt="" width= "50" ></a>
+<a href="https://jestjs.io"><img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="" width= "50" ></a>
+<a href="https://www.cypress.io/how-it-works/"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" alt="" alt="" width= "100" ></a>
+<a href="https://rspec.info"><img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png"  alt="" width= "50" ></a>
+  <a href="https://teamcapybara.github.io/capybara/"><img src="https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/animal_wild_wildlife_tapir_nature_zoo_jungle_forest-512.png" alt=""  width= "50" ></a>
   
   
   
@@ -80,11 +80,11 @@ Below lies a selection of projects using technologies that i am proud of. to see
 
 | Project | Description |
 | -- | :--: |
-| I have created this site to learn more about React and React hooks as well as how to test my code with Jest and Enzyme. <br><br> Alongside documenting the projects I have created, I use the site to quickly test ideas and to create small projects, such as a [calculator], a simple [wave animation] and a [Higher or Lower card game].  <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/Portfolio)** <br> [Live](https://www.Ephfullstack.com/) <br><br> ![](./gifs/Portfolio.gif) |
-|The aim of the project was to create a Social Media Meta-clone where users were able to interact with the application and utilise all of features of a social media application. <br> Users are able to create a new user profile, log in, log out, crate and edit posts, like posts and see like counts, view own page and users profile page aswell as timestamps being displayed next to posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/ephfulstack/acebook-eta.git)** <br> [Acebook - Live](--) <br><br> ![](-- enter a gif of acebook) |
+| I have created this site to learn more about React and React hooks as well as how to test my code with Jest and Enzyme. <br><br> Alongside documenting the projects I have created, I use the site to quickly test ideas and to create small projects, such as a [calculator], a simple [wave animation] and a [Higher or Lower card game].  <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/Portfolio_app)** <br> [Live](https://www.Ephfullstack.com/) <br><br> ![](./gifs/Portfolio.gif) |
+|The aim of the project was to create a Social Media Meta-clone where users were able to interact with the application and utilise all of features of a social media application. <br> Users are able to create a new user profile, log in, log out, crate and edit posts, like posts and see like counts, view own page and users profile page aswell as timestamps being displayed next to posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/Ephfullstack/acebook-eta)** <br> <br><br> ![](-- enter a gif of acebook) |
 | A command-line NodeJS application allowing you to create a bank account, make deposits, withdraw money and print statements. <br> The aim of this project was to focus fully on the TDD process with writing clean, DRY code. <br><br> **Tech Stack** <br> NodeJS <br><br> **Testing Frameworks** <br> Jest <br> | **[Bank](https://github.com/Ephfullstack/bank_account)** <br><br> ![](-- insert video of bank application) |
-|A Hayfever Assistant Application. <br> Achoo is a group project Fullstack hayfever assistant which detects and alerts pollen counts for any location in specific areas and sends text alerts straight to your phone. <br><br> **Tech Stack** <br> Javascript,Node.js,Express,React,Jest,MongoDb CSS, HTML <br><br> **Testing Frameworks** <br> Jest, CypressE2E <br> | **[Achoo](https://github.com/fridayshoes/achoo-hayfever-client-react)** <br><br> ![](-- insert gift of hayfever app) |
-| Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/sophiechannon/MakersBnB)** <br><br> ![](-insert Gif of MakersBnB)|
+|A Hayfever Assistant Application. <br> Achoo is a group project Fullstack hayfever assistant which detects and alerts pollen counts for any location in specific areas and sends text alerts straight to your phone. <br><br> **Tech Stack** <br> Javascript,Node.js,Express,React,Jest,MongoDb CSS, HTML <br><br> **Testing Frameworks** <br> Jest, CypressE2E <br> | **[Achoo](https://github.com/Ephfullstack/achoo-hayfever-client-react)** <br><br> ![](-- insert gift of hayfever app) |
+| Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/ephfullstack/MakersBnB)** <br><br> ![](-insert Gif of MakersBnB)|
 ## Skills
 
 - 
