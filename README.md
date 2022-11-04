@@ -115,7 +115,7 @@ Below lies a selection of projects using technologies that i am proud of. to see
 
 #### **Barnfield South Academy** GCSE'S (2016 - 2018)
 
-- 11 qualifications A – C’s including Mathematics (B) and English Language (A*).
+- 11 GCSE'S A*– C’s including Mathematics (B) and English Language (A*).
 
 ## Experience
 **UK**  **BIOCENTRE** | **Laboratory Section Supervisor** |**_Milton Keynes_** 08/2021 - 04/2022
