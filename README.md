@@ -109,10 +109,6 @@ Having previously worked in various customer-facing roles, I am experienced in c
 
 #### Makers Academy (May - August 2022)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, React, Node, Socket.io
-- RSpec, Jasmine, Jest, React testing Library
 - Object Oriented Programming (OOP) - Fundamentals of object-oriented languages e.g., Ruby and JavaScript.
 - Test Driven Development (TDD)- Able to write meaningful tests (behaviour vs. state) based on user requirements.
 - Learned a consistent debugging process to aid resolve issues.
@@ -123,6 +119,9 @@ based (MongoDB).
 - Fetching and updating remote data using JS, with and without React.
 - Built full stack web applications using MVC model, Git, code reviews and GitHub Actions.
 - Independent learning and problem-solving throughout.
+-  OOP, TDD, MVC, DDD
+- Ruby, Rails, JavaScript, React, Node, Socket.io
+- RSpec, Jasmine, Jest, React testing Library
 
 #### **DeMontFort University**  BSC (Hons) Biomedical Science (2018 - 2021)
 
