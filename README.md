@@ -127,7 +127,7 @@ During my immersive experience at Makers Academy, I gained a comprehensive found
 
 - Remote Data Interaction: I successfully navigated the intricacies of fetching and updating remote data using JavaScript, both with and without the integration of React. This expertise broadened my capability to develop interactive and dynamic web applications.
 
-Full Stack Web Development: Applying the MVC model, I constructed full stack web applications that seamlessly incorporated both front-end and back-end functionalities. I adeptly utilized Git for version control, engaged in thorough code reviews, and leveraged GitHub Actions for streamlined workflow management.
+- Full Stack Web Development: Applying the MVC model, I constructed full stack web applications that seamlessly incorporated both front-end and back-end functionalities. I adeptly utilized Git for version control, engaged in thorough code reviews, and leveraged GitHub Actions for streamlined workflow management.
 
 - Independent Learning: Throughout the program, I demonstrated my commitment to ongoing learning and independent problem-solving. This empowered me to stay ahead of emerging technologies and trends within the dynamic field of software development.
 
