@@ -152,14 +152,14 @@ This comprehensive curriculum empowered me with essential skills and knowledge t
 
 In my role as a Laboratory Section Supervisor at UK BIOCENTRE, I played a vital role in enhancing laboratory technicians' expertise, encompassing:
 
--Comprehensive training in advanced techniques, including Tecan Automation, QPCR/EPCR extraction, Cherry-picking, Manuals, Plate prep, and Kingfisher operations.
--Ensuring adherence to SOP regulations to maintain precision and compliance.
+- Comprehensive training in advanced techniques, including Tecan Automation, QPCR/EPCR extraction, Cherry-picking, Manuals, Plate prep, and Kingfisher operations.
+- Ensuring adherence to SOP regulations to maintain precision and compliance.
 
 I also acquired diverse skills:
 - in Laboratory Information Management System (LIMS) for efficient data management.
--Contribution to SARs CoV-2 testing during the pandemic.
--Demonstrated supervisory leadership, fostering a collaborative environment.
--Effective team-building, optimizing individual strengths for collective success.
+- Contribution to SARs CoV-2 testing during the pandemic.
+- Demonstrated supervisory leadership, fostering a collaborative environment.
+- Effective team-building, optimizing individual strengths for collective success.
 
 This experience not only elevated the team's technical skills but also honed my leadership, adaptability, and collaboration abilities.
 
