@@ -66,38 +66,40 @@
 
 <br>
 
-💻 I am a recent fullstack graduate of the highly selective programming bootcamp known as [Makers Academy](https://makers.tech/).
+💻 I am a recent graduate of the highly selective programming bootcamp known as Makers Academy, specializing in fullstack development.
 
-🥼I have a BSC in Biomedical science with a background in Laboratry Analytics and  hardware field enginering. alongside my studies and my work as a      Laboratory Analyst i have taken the time to equip myself with the basics of programming, familiriziing myself with basic web development langauges such html, CSS and Javascript working on some web developement projects.
+🥼 With a BSc in Biomedical Science, I have a background in Laboratory Analytics and hardware field engineering. Alongside my studies and work as a Laboratory Analyst, I've taken the initiative to equip myself with the fundamentals of programming. I've become familiar with essential web development languages such as HTML, CSS, and JavaScript by working on various web development projects.
 
-🧑‍🎓As a recent Graduate of Makers i now , have the ability and skills to build full stack applications with the use of Javascript and Ruby. I have been trained in the processes of OOP, TDD, Pair programming and the use of agile processes. 
+🧑‍🎓 As a recent Makers Academy graduate, I possess the ability and skills to create full stack applications using JavaScript and Ruby. My training has encompassed Object-Oriented Programming (OOP), Test-Driven Development (TDD), pair programming, and agile methodologies.
 
-During my Journey at makers i have fallen even more in love with coding and i am excited to bring my passion and enthusiasm to a new role. 
+Throughout my journey at Makers, my passion for coding has only grown stronger. I am thrilled to channel my enthusiasm and dedication into a new role.
 
 ## Projects 
 
-Below lies a selection of projects using technologies that i am proud of. to see more of my projects, [please see my Github](https://github.com/Ephfullstack?tab=repositories).
+Presented below is a curated collection of projects showcasing technologies that I take pride in. For a deeper exploration of my work, feel free to explore my GitHub portfolio, [please see my Github](https://github.com/Ephfullstack?tab=repositories).
 
 | Project | Description |
 | -- | :--: |
-| A React-based portfolio site  to showcase projects, skills and experiences. It's developed using React for efficient updates and responsive design, with engaging animations and smooth navigation for a polished user experience.  <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/React_Portfolio)** <br> [Live](https://www.Ephfullstack.com/) <br><br>  |
-|The aim of the project was to create a Social Media Meta-clone where users were able to interact with the application and utilise all of features of a social media application. <br> Users are able to create a new user profile, log in, log out, crate and edit posts, like posts and see like counts, view own page and users profile page aswell as timestamps being displayed next to posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/Ephfullstack/acebook-eta)** <br> <br><br> |
-| A command-line NodeJS application allowing you to create a bank account, make deposits, withdraw money and print statements. <br> The aim of this project was to focus fully on the TDD process with writing clean, DRY code. <br><br> **Tech Stack** <br> NodeJS <br><br> **Testing Frameworks** <br> Jest <br> | **[Bank](https://github.com/Ephfullstack/bank_account)** <br><br>  |
-|A Hayfever Assistant Application. <br> Achoo is a group project Fullstack hayfever assistant which detects and alerts pollen counts for any location in specific areas and sends text alerts straight to your phone. <br><br> **Tech Stack** <br> Javascript,Node.js,Express,React,Jest,MongoDb CSS, HTML <br><br> **Testing Frameworks** <br> Jest, CypressE2E <br> | **[Achoo](https://github.com/Ephfullstack/achoo-hayfever-client-react)** <br><br> |
-| Makers BnB <br><br> An Airbnb clone Group Project- Allows a user to have the ability to register,authenticate,list a property,book a property and confirm a booking. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/ephfullstack/MakersBnB)** <br><br> |
+| Experience a dynamic React-based portfolio site meticulously crafted to display my projects, skills, and experiences. Powered by React, this platform ensures seamless updates and responsive design, complemented by captivating animations and seamless navigation for an exceptional user journey. <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/React_Portfolio)** <br> [Live](https://www.Ephfullstack.com/) <br><br>  |
+|The project's objective was to develop a Social Media Meta-clone, providing users with an interactive platform encompassing all the features of a standard social media application. This application enables users to create new profiles, log in, log out, create and edit posts, like content, view like counts, explore their personal page, browse other users' profiles, and view timestamps conveniently displayed alongside posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/Ephfullstack/acebook-eta)** <br> <br><br> |
+| Introducing a command-line NodeJS application that empowers you to establish a bank account, manage deposits, withdrawals, and print statements effortlessly. This project was designed with a core focus on the Test-Driven Development (TDD) process, ensuring the creation of streamlined, clean, and DRY (Don't Repeat Yourself) code. <br><br> **Tech Stack** <br> NodeJS <br><br> **Testing Frameworks** <br> Jest <br> | **[Bank](https://github.com/Ephfullstack/bank_account)** <br><br>  |
+|Introducing Achoo, your ultimate hayfever assistant! Developed as a collaborative group project, Achoo is a robust Fullstack application that effectively detects and promptly alerts you about pollen counts in specific locations. Stay ahead of your allergies with real-time text notifications sent directly to your phone. Utilizing a powerful tech stack including JavaScript, Node.js, Express, React, MongoDB, and CSS, Achoo guarantees a seamless and user-friendly experience. Comprehensive testing using Jest and CypressE2E ensures accurate and reliable pollen count alerts. <br><br> **Tech Stack** <br> Javascript,Node.js,Express,React,Jest,MongoDb CSS, HTML,API'S(Twillio, Pollen.io) <br><br> **Testing Frameworks** <br> Jest, CypressE2E <br> | **[Achoo](https://github.com/Ephfullstack/achoo-hayfever-client-react)** <br><br> |
+| Presenting Makers BnB, an innovative group project that brings you the essence of Airbnb in a whole new way. This remarkable Airbnb clone offers users a seamless experience, granting them the power to effortlessly register, authenticate, list properties, book accommodations, and confirm bookings. Our team has meticulously recreated the Airbnb experience with meticulous attention to detail and a focus on user-friendly features. Dive into a world of hassle-free bookings and personalized stays, all brought to you through a dynamic blend of technologies, including Ruby, RSpec, Capybara, Sinatra, PostgreSQL, HTML, and CSS. Experience the art of travel made simple, all within the captivating realm of Makers BnB. <br><br> **Tech Stack** <br> Ruby,Rspec,Capybara,Sinatra,PostgreSQL,HTML,CSS <br><br> **Testing Frameworks** <br> Rspec <br> | **[MakersBnB](https://github.com/ephfullstack/MakersBnB)** <br><br> |
 ## Skills
 
 - **Problem Solver**
 
-As someone with a curious nature who thoroughly enjoys finding creative methods to solve problems, I enjoy using my logical reasoning to improve and debug code. While working as an apprentice field engineer, I was the tasks with troubleshooting hardware and software issues. to fulfill this had to exercise my research and strong decision-making skills. This allowed me to understand the issues the hardware or software was undergoing through trial and error and eventually solve the issue leaving the client at the site happy. This was done through having to have prior knowledge of the hardware or software before attending the site which was done through research and following equipment documentation.
+With an innate curiosity and a passion for innovative problem-solving, I relish the opportunity to explore inventive approaches to address challenges. Guided by my logical thinking, I actively engage in enhancing and refining code, using my keen sense of logic to debug and optimize its performance. During my tenure as an apprentice field engineer, I was entrusted with the responsibility of diagnosing hardware and software issues, a task that demanded the application of my research skills and sound decision-making acumen. This immersive experience allowed me to navigate complex problems through a process of trial and error, ultimately leading to successful resolutions that left clients satisfied. My ability to delve into intricate hardware and software intricacies was supported by a foundation of prior knowledge, meticulously gathered through research and an attentive study of equipment documentation.
 
 - **Team Player/Leadership skills**
 
-As a Laboratory Section supervisor, I was able to lead a team of lab technicians and provide support and guidance as well as a productive environment for them to hit sample targets within the laboratory under standard operating procedures. This was done through consistent communication, as well as productivity assessments and incentives. I made sure to be attentive and enthusiastic when working with each technician and spoke in a polite tone to ensure messages were conveyed adequately. I ensured to take the time to understand each member of the team on a person to personal bases taking into consideration their strengths and previous experiences. This in turn allowed me to assign tasks based on each technician's strength to allow the team to work effectively. The same skills were made apparent during our final project at Makers Academy, where we had to work in an AGILE SCRUM format to deliver a web application under time constraints.
+
+In my role as a Laboratory Section Supervisor, I successfully led a team of skilled lab technicians, cultivating an environment of support and guidance that fostered productivity and achievement of sample targets within the laboratory's defined operational framework. I maintained open lines of communication, conducted regular productivity evaluations, and introduced incentives to motivate the team. My interactions with each technician were marked by attentiveness, enthusiasm, and a respectful tone, ensuring effective transmission of messages. Taking a personalized approach, I invested time in comprehending each team member's strengths and background, enabling me to tailor task assignments to maximize their individual contributions. This strategy facilitated streamlined collaboration and efficiency among the team. These same competencies were prominently showcased during our final project at Makers Academy, where we adeptly navigated the challenges of delivering a web application within the constraints of an AGILE SCRUM format and limited time.
+
 
 - **Excellent communicator**
 
-Having previously worked in various customer-facing roles, I am experienced in communicating with a wide range of audiences and adapting my communication style. I can deliver high-quality verbal and written communication. In my previous role as a Consumer Services Specialist, I had to use my abilities to build and sustain positive relationships, provide solutions for customer inquiries, and translate the company's brand. In this role, I received great feedback and recognition for my ability to communicate with customers. I was also able to utilize this skill whilst working within multiple tech teams at Makers Academy, to explain concepts, share feedback, and communicate ideas. A skill that is fundamental for a Software Developer role.
+With a background in various customer-facing positions, I possess extensive experience in effectively communicating across diverse audiences and adapting my communication style to suit different contexts. My ability to deliver polished verbal and written communication is well-honed. In my former role as a Consumer Services Specialist, I leveraged these skills to establish and nurture positive relationships, address customer inquiries adeptly, and authentically convey the essence of the company's brand. My performance in this capacity garnered exceptional feedback and recognition for my adeptness in customer communication. This proficiency was also seamlessly applied while collaborating within multiple technical teams at Makers Academy. I adeptly employed my communication prowess to elucidate complex concepts, provide constructive feedback, and facilitate the exchange of innovative ideas. This skill is pivotal in my transition to a Software Developer role.
 
 
 - **Additional skills:** Video Editing (iMovie/Final Cut/ Premiere pro) | Graphic Design (Inkscape/Photoshop) | UGC | Social Media Marketing via Tiktok.
@@ -109,19 +111,27 @@ Having previously worked in various customer-facing roles, I am experienced in c
 
 #### Makers Academy (May - August 2022)
 
-- Object Oriented Programming (OOP) - Fundamentals of object-oriented languages e.g., Ruby and JavaScript.
-- Test Driven Development (TDD)- Able to write meaningful tests (behaviour vs. state) based on user requirements.
-- Learned a consistent debugging process to aid resolve issues.
-- Designed database schemas with SQL and studied the difference between table-oriented databases vs document-
-based (MongoDB).
-- Used Agile values and principles (e.g., stand-ups, retros, and sprint planning) to complete coding projects.
-- Pair programming in group projects to problem solve which required effective teamwork and communication.
-- Fetching and updating remote data using JS, with and without React.
-- Built full stack web applications using MVC model, Git, code reviews and GitHub Actions.
-- Independent learning and problem-solving throughout.
--  OOP, TDD, MVC, DDD
-- Ruby, Rails, JavaScript, React, Node, Socket.io
-- RSpec, Jasmine, Jest, React testing Library
+During my immersive experience at Makers Academy, I gained a comprehensive foundation in a range of pivotal concepts and methodologies within software development:
+
+Object-Oriented Programming (OOP): I delved into the core principles of OOP, mastering languages like Ruby and JavaScript. This provided me with a solid understanding of how to create modular, reusable, and efficient code through encapsulation, inheritance, and polymorphism.
+
+Test-Driven Development (TDD): I honed the ability to craft meaningful tests that center around behavior and state, aligning with user requirements. This practice not only ensured the functionality of my code but also instilled a disciplined approach to development.
+
+Debugging Proficiency: I acquired a consistent debugging process that enabled me to identify and rectify issues swiftly, enhancing the quality and reliability of my code.
+
+Database Design and Management: I gained hands-on experience in designing database schemas using SQL, while also exploring the contrasts between table-oriented databases and document-based solutions like MongoDB.
+
+Agile Methodologies: Embracing Agile values and principles, I actively participated in stand-ups, retrospectives, and sprint planning sessions. This fostered a collaborative and iterative approach to completing coding projects efficiently.
+
+Effective Collaboration: Through pair programming within group projects, I developed strong teamwork and communication skills. This collaborative effort allowed us to collectively solve problems and create robust solutions.
+
+Remote Data Interaction: I successfully navigated the intricacies of fetching and updating remote data using JavaScript, both with and without the integration of React. This expertise broadened my capability to develop interactive and dynamic web applications.
+
+Full Stack Web Development: Applying the MVC model, I constructed full stack web applications that seamlessly incorporated both front-end and back-end functionalities. I adeptly utilized Git for version control, engaged in thorough code reviews, and leveraged GitHub Actions for streamlined workflow management.
+
+Independent Learning: Throughout the program, I demonstrated my commitment to ongoing learning and independent problem-solving. This empowered me to stay ahead of emerging technologies and trends within the dynamic field of software development.
+
+This comprehensive curriculum empowered me with essential skills and knowledge to excel in the industry. My proficiency spans across a range of technologies including Ruby, Ruby on Rails, JavaScript, React, Node.js, and Socket.io. I'm adept at using testing frameworks like RSpec, Jasmine, Jest, and the React Testing Library, ensuring robust code and optimal user experiences. The journey at Makers Academy not only cultivated my technical prowess but also instilled a deep appreciation for continuous learning and innovation.
 
 #### **DeMontFort University**  BSC (Hons) Biomedical Science (2018 - 2021)
 
@@ -140,38 +150,57 @@ based (MongoDB).
 ## Experience
 **UK**  **BIOCENTRE** | **Laboratory Section Supervisor** |**_Milton Keynes_** 08/2021 - 04/2022
 
-- Trained Laboratory technicians' skills such as Tecan Automation, QPCR/EPCR extraction, Cherry-picking, Manuals, Plate prep and Kingfisher and following SOP regulations.
-- Adopted an array of skills such as, LIMS for data analysis, SARs cov2 testing, supervisor Leadership skills as well as team building skills.
+In my role as a Laboratory Section Supervisor at UK BIOCENTRE, I played a vital role in enhancing laboratory technicians' expertise, encompassing:
+
+-Comprehensive training in advanced techniques, including Tecan Automation, QPCR/EPCR extraction, Cherry-picking, Manuals, Plate prep, and Kingfisher operations.
+-Ensuring adherence to SOP regulations to maintain precision and compliance.
+
+I also acquired diverse skills:
+- in Laboratory Information Management System (LIMS) for efficient data management.
+-Contribution to SARs CoV-2 testing during the pandemic.
+-Demonstrated supervisory leadership, fostering a collaborative environment.
+-Effective team-building, optimizing individual strengths for collective success.
+
+This experience not only elevated the team's technical skills but also honed my leadership, adaptability, and collaboration abilities.
 
 **SITEL** **GROUP** | **Customer Service Specialist** | **_Remote_** 02/2021 - 08/2022
 
-- Directly supported the NHS by heavily decreasing call traffic during the harsh COVID-19 Pandemic.
-- Conducted Outbound calls to members of the public, providing guidance and Emergency assistance.
-- Used Outstanding Communication and Customer service skills to attain client attention
-- Recorded sensitive information via an online database.
+During the challenging COVID-19 pandemic, I made significant contributions at SITEL GROUP:
+
+- Played a pivotal role in supporting the NHS by substantially reducing call traffic.
+- Conducted outbound calls to offer crucial guidance and emergency assistance to the public.
+- Leveraged exceptional communication and customer service skills to engage and assist clients effectively.
+- Ensured the accurate recording of sensitive information in an online database.
+- My commitment to service and communication skills helped alleviate pressure on healthcare services and deliver essential support to those in need.
 
 **UKOMP** **LTD** | **Trainee Field Engineer** |**_Nationwide_** 06/2018 – 10/2019
 
-- Assisted a Highly Advanced Team of Field Engineers around the UK and provided IT support and Services
-- Handled Contracts from Highly acclaimed tech company's such as HP, LINUX, HPE and DXC.
-- Obtained a range of Technical Skills such as Hardware Repairs, Software Debugging and Cable architecture.
-- Was able to express proficient communication skills as I assisted users both remotely and on site ensuring they received the best experience.
+During my time at UKOMP LTD:
+
+-Collaborated with a skilled team of field engineers across the UK, delivering comprehensive IT support and services.
+-Managed contracts from prestigious tech companies like HP, LINUX, HPE, and DXC.
+-Developed diverse technical skills encompassing hardware repairs, software debugging, and cable architecture.
+-Demonstrated adept communication skills while assisting users both remotely and on-site, ensuring a seamless experience.
+My role was pivotal in providing effective IT solutions and fostering positive user interactions, contributing to the success of the team and client satisfaction.
 
 **MOTTO** **TODDINGTON SERVICES NORTHBOUND** |  **Team Leader** | **_Toddington_** 08/2017 - 06/2018
 
-- Joined a family of retail associates at WHSmith where I was placed in charge of guiding a team of customer service assistants.
-- Achieved skills such as Data logging, Stock rotations and Cash handling procedures as well as improving planning, leadership, and communication skills to lead the team in an efficient and cost-effective manor
-- Strived to deliver the best customer service to our clients as well as ensuring I met given KPI targets.
+At MOTTO TODDINGTON SERVICES NORTHBOUND:
 
+-Became part of the WHSmith retail team, taking on the role of overseeing a group of customer service assistants.
+-Developed proficiencies in tasks including data logging, stock rotations, and cash handling procedures.
+-Enhanced skills in planning, leadership, and communication to efficiently lead the team and manage operations.
+-Focused on delivering top-notch customer service to clients, consistently meeting and exceeding given KPI targets.
+My tenure at MOTTO TODDINGTON SERVICES NORTHBOUND showcased my ability to effectively manage teams, optimize processes, and maintain a high standard of customer service within a dynamic retail environment.
 
 ## Hobbies
 
-🏃‍♂️ Fitness: I go gym everyday and when i'm not at the gym i'm either at gymnastics, boxing or basketball.
+🏃‍♂️ Fitness: I'm committed to my fitness regimen, hitting the gym every day. When I'm not at the gym, you'll find me engaging in activities like gymnastics, boxing, or basketball.
 
-🌍 Travel: An aspiring Internet Nomad who lives for taking in and visiting different countries and cultures.
+🌍 Travel: I'm an enthusiastic aspiring Internet Nomad, driven by a passion for exploring diverse countries and cultures around the world.
 
-📹 Content creation: I love making short form or long form clips on tiktok, instagram and youtube.
+📹 Content Creation: I have a knack for crafting engaging content, whether it's short or long form, on platforms like TikTok, Instagram, and YouTube.
 
-👨‍🍳 Cooking: I really enjoy learning new recipes and making new dishes. My signature dish has to be Jappense katsu curry and rice.
+👨‍🍳 Cooking: I derive great satisfaction from experimenting with new recipes and creating delectable dishes. My signature culinary masterpiece is the Japanese katsu curry with rice.
 
-📚 Reading: When i'm not coding, i'm usually stuck inside of a self help, metaphysics or business novel. Currently reading: The Almanak of Naval Ravikant:      A guide to wealth and happiness by Eric Jorgenson. 
+📚 Reading: Beyond coding, I'm an avid reader, diving into self-help, metaphysical, and business novels. Currently, I'm absorbed in "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness" by Eric Jorgenson.
