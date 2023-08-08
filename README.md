@@ -113,23 +113,23 @@ With a background in various customer-facing positions, I possess extensive expe
 
 During my immersive experience at Makers Academy, I gained a comprehensive foundation in a range of pivotal concepts and methodologies within software development:
 
-Object-Oriented Programming (OOP): I delved into the core principles of OOP, mastering languages like Ruby and JavaScript. This provided me with a solid understanding of how to create modular, reusable, and efficient code through encapsulation, inheritance, and polymorphism.
+- Object-Oriented Programming (OOP): I delved into the core principles of OOP, mastering languages like Ruby and JavaScript. This provided me with a solid understanding of how to create modular, reusable, and efficient code through encapsulation, inheritance, and polymorphism.
 
-Test-Driven Development (TDD): I honed the ability to craft meaningful tests that center around behavior and state, aligning with user requirements. This practice not only ensured the functionality of my code but also instilled a disciplined approach to development.
+- Test-Driven Development (TDD): I honed the ability to craft meaningful tests that center around behavior and state, aligning with user requirements. This practice not only ensured the functionality of my code but also instilled a disciplined approach to development.
 
-Debugging Proficiency: I acquired a consistent debugging process that enabled me to identify and rectify issues swiftly, enhancing the quality and reliability of my code.
+- Debugging Proficiency: I acquired a consistent debugging process that enabled me to identify and rectify issues swiftly, enhancing the quality and reliability of my code.
 
-Database Design and Management: I gained hands-on experience in designing database schemas using SQL, while also exploring the contrasts between table-oriented databases and document-based solutions like MongoDB.
+- Database Design and Management: I gained hands-on experience in designing database schemas using SQL, while also exploring the contrasts between table-oriented databases and document-based solutions like MongoDB.
 
-Agile Methodologies: Embracing Agile values and principles, I actively participated in stand-ups, retrospectives, and sprint planning sessions. This fostered a collaborative and iterative approach to completing coding projects efficiently.
+- Agile Methodologies: Embracing Agile values and principles, I actively participated in stand-ups, retrospectives, and sprint planning sessions. This fostered a collaborative and iterative approach to completing coding projects efficiently.
 
-Effective Collaboration: Through pair programming within group projects, I developed strong teamwork and communication skills. This collaborative effort allowed us to collectively solve problems and create robust solutions.
+- Effective Collaboration: Through pair programming within group projects, I developed strong teamwork and communication skills. This collaborative effort allowed us to collectively solve problems and create robust solutions.
 
-Remote Data Interaction: I successfully navigated the intricacies of fetching and updating remote data using JavaScript, both with and without the integration of React. This expertise broadened my capability to develop interactive and dynamic web applications.
+- Remote Data Interaction: I successfully navigated the intricacies of fetching and updating remote data using JavaScript, both with and without the integration of React. This expertise broadened my capability to develop interactive and dynamic web applications.
 
 Full Stack Web Development: Applying the MVC model, I constructed full stack web applications that seamlessly incorporated both front-end and back-end functionalities. I adeptly utilized Git for version control, engaged in thorough code reviews, and leveraged GitHub Actions for streamlined workflow management.
 
-Independent Learning: Throughout the program, I demonstrated my commitment to ongoing learning and independent problem-solving. This empowered me to stay ahead of emerging technologies and trends within the dynamic field of software development.
+- Independent Learning: Throughout the program, I demonstrated my commitment to ongoing learning and independent problem-solving. This empowered me to stay ahead of emerging technologies and trends within the dynamic field of software development.
 
 This comprehensive curriculum empowered me with essential skills and knowledge to excel in the industry. My proficiency spans across a range of technologies including Ruby, Ruby on Rails, JavaScript, React, Node.js, and Socket.io. I'm adept at using testing frameworks like RSpec, Jasmine, Jest, and the React Testing Library, ensuring robust code and optimal user experiences. The journey at Makers Academy not only cultivated my technical prowess but also instilled a deep appreciation for continuous learning and innovation.
 
