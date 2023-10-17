@@ -18,6 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS"><img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="" width= "50" ></a>
 
 <a href="https://www.w3schools.com/html/html_intro.asp"><img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="" width= "50" ></a>
+<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="" width="50"></a>
 
 **BACK END**
 
@@ -30,6 +31,9 @@
 <a href="https://www.mongodb.com/what-is-mongodb"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-512.png" alt=""  width= "50" ></a>
 <a href="https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP"><img src="https://cdn2.iconfinder.com/data/icons/coding-and-development-flat/60/Object-Oriented-Programming-program-developer-512.png" alt=""  width= "50" ></a>
 <a href="https://sinatrarb.com"><img src="https://seeklogo.com/images/S/sinatra-logo-565ADC36BE-seeklogo.com.jpg?v=637830261740000000" alt="" width= "60" ></a>
+<a href="https://www.java.com/en/"><img src="https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/64d26ed75e39c4c591e01c3d_64c96a772785e6db2d21f850_java-logo-transparent-free-png.png" alt="" width= "60"><a/>
+<a href="https://www.sqlite.org/index.html"><img src="https://sqlite.org/forum/logo?id=603c155e" alt="" width="100"></a>
+
 
 
 **TESTING**
@@ -38,6 +42,9 @@
 <a href="https://www.cypress.io/how-it-works/"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_10f53e90961b98df0191922f13efd135/cypress.png" alt="" alt="" width= "100" ></a>
 <a href="https://rspec.info"><img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png"  alt="" width= "50" ></a>
   <a href="https://teamcapybara.github.io/capybara/"><img src="https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/animal_wild_wildlife_tapir_nature_zoo_jungle_forest-512.png" alt=""  width= "50" ></a>
+  <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" alt=""  width= "50"></a>
+  <a href="https://junit.org/junit5/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt=""  width= "60"><a/>
+  
   
   
   
