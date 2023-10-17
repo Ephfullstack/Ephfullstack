@@ -43,7 +43,7 @@
 <a href="https://rspec.info"><img src="https://seeklogo.com/images/R/rspec-logo-DA1EE19A18-seeklogo.com.png"  alt="" width= "50" ></a>
   <a href="https://teamcapybara.github.io/capybara/"><img src="https://cdn1.iconfinder.com/data/icons/life-of-amazon-outline/340/animal_wild_wildlife_tapir_nature_zoo_jungle_forest-512.png" alt=""  width= "50" ></a>
   <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/selenium/selenium-original.svg" alt=""  width= "50"></a>
-  <a href="https://junit.org/junit5/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt=""  width= "60"><a/>
+  <a href="https://junit.org/junit5/"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt=""  width= "50"><a/>
   
   
   
@@ -87,7 +87,7 @@ Presented below is a curated collection of projects showcasing technologies that
 
 | Project | Description |
 | -- | :--: |
-| Experience a dynamic React-based portfolio site meticulously crafted to display my projects, skills, and experiences. Powered by React, this platform ensures seamless updates and responsive design, complemented by captivating animations and seamless navigation for an exceptional user journey. <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/React_Portfolio)** <br> [Live](https://www.Ephfullstack.com/) <br><br>  |
+| Experience a dynamic React-based portfolio site meticulously crafted to display my projects, skills, and experiences. Powered by React, this platform ensures seamless updates and responsive design, complemented by captivating animations and seamless navigation for an exceptional user journey. <br><br> **Tech Stack** <br> React <br><br> **Testing Frameworks** <br> Jest, <br> Enzyme <br>| **[Portfolio](https://github.com/Ephfullstack/React_Portfolio)** <br> <br><br>  |
 |The project's objective was to develop a Social Media Meta-clone, providing users with an interactive platform encompassing all the features of a standard social media application. This application enables users to create new profiles, log in, log out, create and edit posts, like content, view like counts, explore their personal page, browse other users' profiles, and view timestamps conveniently displayed alongside posts.  <br><br> **Tech Stack** <br> JavaScripts, Handlebars, CSS, <br>Node, Express,<br> MongoDB <br><br> **Testing Frameworks** <br> Jest, <br>Cypress<br>| **[Acebook](https://github.com/Ephfullstack/acebook-eta)** <br> <br><br> |
 | Introducing a command-line NodeJS application that empowers you to establish a bank account, manage deposits, withdrawals, and print statements effortlessly. This project was designed with a core focus on the Test-Driven Development (TDD) process, ensuring the creation of streamlined, clean, and DRY (Don't Repeat Yourself) code. <br><br> **Tech Stack** <br> NodeJS <br><br> **Testing Frameworks** <br> Jest <br> | **[Bank](https://github.com/Ephfullstack/bank_account)** <br><br>  |
 |Introducing Achoo, your ultimate hayfever assistant! Developed as a collaborative group project, Achoo is a robust Fullstack application that effectively detects and promptly alerts you about pollen counts in specific locations. Stay ahead of your allergies with real-time text notifications sent directly to your phone. Utilizing a powerful tech stack including JavaScript, Node.js, Express, React, MongoDB, and CSS, Achoo guarantees a seamless and user-friendly experience. Comprehensive testing using Jest and CypressE2E ensures accurate and reliable pollen count alerts. <br><br> **Tech Stack** <br> Javascript,Node.js,Express,React,Jest,MongoDb CSS, HTML,API'S(Twillio, Pollen.io) <br><br> **Testing Frameworks** <br> Jest, CypressE2E <br> | **[Achoo](https://github.com/Ephfullstack/achoo-hayfever-client-react)** <br><br> |
@@ -111,10 +111,27 @@ With a background in various customer-facing positions, I possess extensive expe
 
 - **Additional skills:** Video Editing (iMovie/Final Cut/ Premiere pro) | Graphic Design (Inkscape/Photoshop) | UGC | Social Media Marketing via Tiktok.
 
-- **Languages** English | Yoruba
+- **Languages** English | Yoruba | French
 
 
 ## Education
+
+#### Ten10 Technology Consultant Academy
+
+During my tenure at Ten10, I underwent a comprehensive training program designed to mold me into a proficient Technology Consultant. This immersive experience equipped me with a well-rounded skill set, in-depth knowledge, and industry-recognized certifications, solidifying my foundation as a versatile and capable Technology Consultant.
+
+Within this program, I engaged in a spectrum of roles, each contributing to my holistic understanding of technology consulting:
+
+
+
+- Enterprise IT: I delved into the intricacies of managing large-scale IT infrastructures within organizations. This encompassed tasks such as system integration, network management, and ensuring the seamless operation of enterprise-level applications.
+- Agile Methodlogies: I honed my proficiency in Agile methodologies, a pivotal approach in modern software development. This involved dynamic collaboration, iterative development, and a strong focus on delivering value to clients in incremental stages.
+- Testing:I garnered expertise in software testing methodologies, utilizing tools such as JUnit and Selenium for comprehensive testing coverage. This included everything from unit testing to user acceptance testing, ensuring the quality, reliability, and performance of software solutions.
+- DataBase Engineering: I was extensively involved in database engineering, where I utilized SQLite as a robust and efficient database management system. I designed, implemented, and optimized database architectures, ensuring seamless data storage, retrieval, and management for various applications. To visually represent and refine database structures, I employed Entity-Relationship (ER) diagrams, which served as invaluable blueprints for efficient data organization and relationships.
+- Development: As a Full Stack Developer, I demonstrated proficiency in both front-end and back-end development. I leveraged Java and C++ to build robust and efficient applications. In Java, I utilized its object-oriented features and extensive libraries to create scalable and maintainable software solutions. In C++, I harnessed its power for high-performance applications, taking advantage of its low-level capabilities for resource-intensive tasks. I also contributed to large code bases, collaborating with teams to enhance existing projects and implement new features.
+- AWS/DOCKER: I obtained proficiency in cloud computing through Amazon Web Services (AWS) and containerization with Docker. This knowledge empowered me to deploy, manage, and scale applications in cloud environments, further expanding my capabilities as a Technology Consultant.
+- Project Management:  I acquired skills in project management, enabling me to effectively plan, execute, and oversee projects from inception to completion. This encompassed tasks such as defining project scopes, allocating resources, and ensuring deliverables met client expectations.
+- Business Analytics: I delved into the realm of business analytics, gaining the ability to leverage data-driven insights to inform strategic decisions. This involved tasks such as data interpretation, trend analysis, and the development of actionable recommendations to drive organizational growth and efficiency."
 
 #### Makers Academy (May - August 2022)
 
