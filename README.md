@@ -73,7 +73,7 @@
 
 <br>
 
-💻  Junior Technology Consultant Specialising in Full stack Development, Developer Opeartions and Cyber Security.
+💻 Junior Technology Consultant specializing in Full Stack Development, Developer Operations, and Cybersecurity
 
 ## Projects 
 
