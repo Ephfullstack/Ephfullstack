@@ -73,13 +73,7 @@
 
 <br>
 
-💻 I am a recent graduate of the highly selective programming bootcamp known as Makers Academy, specializing in fullstack development.
-
-🥼 With a BSc in Biomedical Science, I have a background in Laboratory Analytics and hardware field engineering. Alongside my studies and work as a Laboratory Analyst, I've taken the initiative to equip myself with the fundamentals of programming. I've become familiar with essential web development languages such as HTML, CSS, and JavaScript by working on various web development projects.
-
-🧑‍🎓 As a recent Makers Academy graduate, I possess the ability and skills to create full stack applications using JavaScript and Ruby. My training has encompassed Object-Oriented Programming (OOP), Test-Driven Development (TDD), pair programming, and agile methodologies.
-
-Throughout my journey at Makers, my passion for coding has only grown stronger. I am thrilled to channel my enthusiasm and dedication into a new role.
+💻  Junior Technology Consultant Specialising in Full stack Development, Developer Opeartions and Cyber Security.
 
 ## Projects 
 
