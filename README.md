@@ -75,6 +75,7 @@
 
 <p style="text-align: center;">💻 Junior Technology Consultant specializing in Full Stack Development, Developer Operations, and Cybersecurity 💻</p>
 
+
 ## Projects 
 
 Presented below is a curated collection of projects showcasing technologies that I take pride in. For a deeper exploration of my work, feel free to explore my GitHub portfolio, [please see my Github](https://github.com/Ephfullstack?tab=repositories).
